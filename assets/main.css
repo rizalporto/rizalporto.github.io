@@ -1,0 +1,13 @@
+body {
+    background-image: radial-gradient(#e0e0e0 10%, #ffffff 10%);
+    background-position: 0 0;
+    background-size: 30px 30px;
+    width: auto;
+}
+
+.bakgrond {
+    background-image: radial-gradient(#e0e0e0 10%, #96e3fa 10%);
+    background-position: 0 0;
+    background-size: 30px 30px;
+    width: auto;
+}
